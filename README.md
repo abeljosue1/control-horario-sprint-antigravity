@@ -56,5 +56,4 @@ Durante este Sprint, el equipo aprendió a:
 
 ## 🔗 Recursos
 
-- **Trello**: [Link al tablero Trello del equipo]
-- **Video Demo**: [Link al video de presentación]
+- **Trello**: [[Link al tablero Trello del equipo](https://trello.com/b/X9jlMO2p/practicas)]
