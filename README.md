@@ -1,5 +1,5 @@
 # Control Horario MVP - Sprint 0
-
+hola buenas tardes soy jonel
 Este proyecto es un MVP (Producto Mínimo Viable) para el registro y control de jornadas laborales, desarrollado como parte del Sprint 0 del bootcamp de Antigravity.
 
 ## 🚀 Funcionalidades
